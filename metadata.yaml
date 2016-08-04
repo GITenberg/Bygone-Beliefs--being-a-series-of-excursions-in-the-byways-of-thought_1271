@@ -1,0 +1,32 @@
+_repo: Bygone-Beliefs--being-a-series-of-excursions-in-the-byways-of-thought_1271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Redgrove, H. Stanley (Herbert Stanley)
+    alias: Redgrove, Herbert Stanley
+    birthdate: 1887
+    deathdate: 1943
+    gutenberg_agent_id: '579'
+    url: http://www.gutenberg.org/2009/agents/579
+description: 'Some characteristics of mediaeval thought; Pythagoras and his philosophy;
+  Medicine and magic; Superstitions concerning birds; The powder of sympathy; a curious
+  medical superstition; The belief in talismans ceremonial magic in theory and practice;
+  Architectural symbolism; The quest of the philosopher''s stone; The Phallic element
+  in alchemical doctrine; Roger Bacon: an appreciation; The Cambridge Platonists.'
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic'
+- !lcsh 'Superstition'
+- !lcc 'BF'
+- !lcsh 'Alchemy'
+- GITenberg
+title: 'Bygone Beliefs: Being a Series of Excursions in the Byways of Thought'
+url: http://www.gutenberg.org/ebooks/1271
