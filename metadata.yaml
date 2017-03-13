@@ -1,5 +1,8 @@
 _repo: Bygone-Beliefs--being-a-series-of-excursions-in-the-byways-of-thought_1271
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Redgrove, H. Stanley (Herbert Stanley)
@@ -13,6 +16,8 @@ description: 'Some characteristics of mediaeval thought; Pythagoras and his phil
   medical superstition; The belief in talismans ceremonial magic in theory and practice;
   Architectural symbolism; The quest of the philosopher''s stone; The Phallic element
   in alchemical doctrine; Roger Bacon: an appreciation; The Cambridge Platonists.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1271#Bygone-Beliefs--being-a-series-of-excursions-in-the-byways-of-thought
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
